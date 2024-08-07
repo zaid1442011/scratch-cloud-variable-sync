@@ -1,0 +1,9 @@
+#Ignore enviroment variables
+app.env
+#Ignore python virtual enviroment
+pyvenv.cfg
+bin/
+include/
+lib/
+lib64
+lib64
