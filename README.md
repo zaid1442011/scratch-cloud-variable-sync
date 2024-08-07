@@ -56,7 +56,7 @@ python3 app.py
 
 ## Contributing
 
-All contributions are welcome, but they must abide by our contribution guidelines.
+All contributions are welcome, but they must abide by our [contribution guidelines](https://github.com/zaid1442011/scratch-cloud-variable-sync/blob/main/CONTRIBUTING.md).
 
 ## Help
 
