@@ -19,13 +19,13 @@ A python script to sync Scratch's cloud variables to Turbowarp's cloud server.
 
 These instructions are for Unix-based operating systems only (macOS, BSD, and Linux).
 
-1. The first step is to clone the repository or download the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/archive/refs/heads/main.zip) of the repository. By opening the terminal and typing:
+1. (Recommended for end users) The first step is to clone the repository or download the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/releases) here.  (Recommended for developers)By opening the terminal and typing:
 
 ```sh
 git clone https://github.com/zaid1442011/scratch-cloud-variable-sync.git
 ```
 
-If you don't have git, [install it](https://git-scm.com/downloads) or extract the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/archive/refs/heads/main.zip) to the home folder.
+If you don't have git, [install it](https://git-scm.com/downloads) or extract the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/releases) to the home folder.
 
 2. Change directory to the repository:
 
