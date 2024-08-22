@@ -6,7 +6,7 @@ idna==3.7
 numpy==2.0.1
 python-dotenv==1.0.1
 requests==2.32.3
-scratchattach==1.7.3
+git+https://github.com/zaid1442011/scratchattach.git#egg=scratchattach
 soupsieve==2.5
 urllib3==2.2.2
 websocket-client==1.8.0
