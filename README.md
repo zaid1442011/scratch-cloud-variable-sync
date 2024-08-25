@@ -13,13 +13,13 @@ THIS ISN'T A STABLE BRANCH YET.
 
 These instructions are for Unix-based operating systems only (macOS, BSD, and Linux).
 
-1. (Recommended for end users) The first step is to download the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/releases) here.  (Recommended for developers) By opening the terminal and typing:
+1. (Recommended for end users) The first step is to download the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/archive/refs/heads/2-way-communication.zip) here.  (Recommended for developers) By opening the terminal and typing:
 
 ```sh
 git clone -b 2-way-communication https://github.com/zaid1442011/scratch-cloud-variable-sync.git
 ```
 
-If you don't have git, [install it](https://git-scm.com/downloads) or extract the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/releases) to the home folder.
+If you don't have git, [install it](https://git-scm.com/downloads) or extract the [.zip file](https://github.com/zaid1442011/scratch-cloud-variable-sync/archive/refs/heads/2-way-communication.zip) to the home folder.
 
 2. Change directory to the repository:
 
