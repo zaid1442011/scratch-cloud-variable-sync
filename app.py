@@ -14,7 +14,7 @@ server=os.getenv('cloud_host')
 contact_info=os.getenv('contact')
 egress=os.getenv("egress")
 
-if sessionID != "" and egress != (""):
+if sessionID == "" and egress == (""):
     print("This is a test branch for 2-way communication, if you won't use 2-way communication, don't use this branch.")
     exit()
 
